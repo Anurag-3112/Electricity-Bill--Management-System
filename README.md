@@ -123,6 +123,10 @@ Add online payment integration.
 
 ## 👨‍💻 Author
 
-Developed using Java Swing + MySQL
-Created in IntelliJ IDEA
+- **Name:** Anurag Kumar  
+- **GitHub:** [Anurag-3112](https://github.com/Anurag-3112)  
+- **LinkedIn:** ([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/anurag-kumar-work/))  
+- **Email:** kumar.anurag.connect@gmail.com  
 
+🚀 Developed using **Java Swing + MySQL**  
+💻 Created in **IntelliJ IDEA**
